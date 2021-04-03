@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969725940673",
+    "firebase_url": "https://drawerfragment-89670.firebaseio.com",
+    "project_id": "drawerfragment-89670",
+    "storage_bucket": "drawerfragment-89670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969725940673:android:c586332024383e2dfad540",
+        "android_client_info": {
+          "package_name": "com.example.drawerfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969725940673-5cvjj85jje562ch6qmqagmd5dbbppe0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drawerfragment",
+            "certificate_hash": "93f3632a03712ff8b76801fa3d067c08fb95ac8f"
+          }
+        },
+        {
+          "client_id": "969725940673-58icglo3oc04k0kohqc1ha93muf1prof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxGl2C9AxeQOR4NJULHOkpyc9E0x3aHLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969725940673-58icglo3oc04k0kohqc1ha93muf1prof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
